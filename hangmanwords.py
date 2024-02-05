@@ -1,0 +1,5 @@
+words = [
+    "ardvark",
+    "baboon",
+    "camel"
+]
